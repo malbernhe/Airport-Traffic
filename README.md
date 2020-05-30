@@ -1,2 +1,3 @@
 # Airport-Traffic
-Evolution du trafic passagers dans les aéroports (source des données Eurostat).
+Animation de visualisation de l'evolution du trafic passagers dans les aéroports (source des données Eurostat).
+
